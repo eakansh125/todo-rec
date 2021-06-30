@@ -15,4 +15,5 @@
 .listContainer {
     /* background-color: darkkhaki; */
     word-wrap: break-word;
+    max-width: 500px;
 }
